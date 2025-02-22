@@ -1,0 +1,4849 @@
+fileFormatVersion: 2
+guid: 765c9fe701d8f3b4abbf877c7d41b4aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5126242503733394713
+    second: MainFont Atlas_0
+  - first:
+      213: -8120670646018063559
+    second: MainFont Atlas_1
+  - first:
+      213: 7763019588562407143
+    second: MainFont Atlas_2
+  - first:
+      213: 2526971471464953247
+    second: MainFont Atlas_3
+  - first:
+      213: -7436947877243740209
+    second: MainFont Atlas_4
+  - first:
+      213: -7024908937521097535
+    second: MainFont Atlas_5
+  - first:
+      213: 120482194248853598
+    second: MainFont Atlas_6
+  - first:
+      213: 434727738195785293
+    second: MainFont Atlas_7
+  - first:
+      213: 8141070858599836190
+    second: MainFont Atlas_8
+  - first:
+      213: 7689795412336848594
+    second: MainFont Atlas_9
+  - first:
+      213: 3656492822664978906
+    second: MainFont Atlas_10
+  - first:
+      213: 5102840048637885319
+    second: MainFont Atlas_11
+  - first:
+      213: -2995018908684255188
+    second: MainFont Atlas_12
+  - first:
+      213: 7595456060586930856
+    second: MainFont Atlas_13
+  - first:
+      213: -3549416102712654240
+    second: MainFont Atlas_14
+  - first:
+      213: 7241503845224193008
+    second: MainFont Atlas_15
+  - first:
+      213: -4944443150005578990
+    second: MainFont Atlas_16
+  - first:
+      213: 1731989863854105100
+    second: MainFont Atlas_17
+  - first:
+      213: -3638849446062421542
+    second: MainFont Atlas_18
+  - first:
+      213: 3563883748266092803
+    second: MainFont Atlas_19
+  - first:
+      213: -4997980003178272713
+    second: MainFont Atlas_20
+  - first:
+      213: 7607445246898766276
+    second: MainFont Atlas_21
+  - first:
+      213: -8350466688888488454
+    second: MainFont Atlas_22
+  - first:
+      213: 8192526070423440832
+    second: MainFont Atlas_23
+  - first:
+      213: 1273614635110004694
+    second: MainFont Atlas_24
+  - first:
+      213: -5272505438619628715
+    second: MainFont Atlas_25
+  - first:
+      213: 6223575036408623444
+    second: MainFont Atlas_26
+  - first:
+      213: 6764171044621951524
+    second: MainFont Atlas_27
+  - first:
+      213: -1088330499619361886
+    second: MainFont Atlas_28
+  - first:
+      213: -5140098317200371776
+    second: MainFont Atlas_29
+  - first:
+      213: -8181320704778039449
+    second: MainFont Atlas_30
+  - first:
+      213: 8012273761922611972
+    second: MainFont Atlas_31
+  - first:
+      213: 6550549956132581061
+    second: MainFont Atlas_32
+  - first:
+      213: 4283045025313987734
+    second: MainFont Atlas_33
+  - first:
+      213: -7249976146763745121
+    second: MainFont Atlas_34
+  - first:
+      213: -8541393040803780002
+    second: MainFont Atlas_35
+  - first:
+      213: 2857183754973192825
+    second: MainFont Atlas_36
+  - first:
+      213: 376774052723335725
+    second: MainFont Atlas_37
+  - first:
+      213: -2473405271407092211
+    second: MainFont Atlas_38
+  - first:
+      213: 462229630752474530
+    second: MainFont Atlas_39
+  - first:
+      213: -476706215950616556
+    second: MainFont Atlas_40
+  - first:
+      213: 2301938222899968596
+    second: MainFont Atlas_41
+  - first:
+      213: -2726409788151738558
+    second: MainFont Atlas_42
+  - first:
+      213: 2326355205562023971
+    second: MainFont Atlas_43
+  - first:
+      213: 2360702795093567467
+    second: MainFont Atlas_44
+  - first:
+      213: 5230957881609307844
+    second: MainFont Atlas_45
+  - first:
+      213: 2365587476252700540
+    second: MainFont Atlas_46
+  - first:
+      213: 8591014402220611774
+    second: MainFont Atlas_47
+  - first:
+      213: 5530448898756576552
+    second: MainFont Atlas_48
+  - first:
+      213: -197076147932520586
+    second: MainFont Atlas_49
+  - first:
+      213: -773219052947493413
+    second: MainFont Atlas_50
+  - first:
+      213: -7861385479405042660
+    second: MainFont Atlas_51
+  - first:
+      213: -3850968358712599099
+    second: MainFont Atlas_52
+  - first:
+      213: 1308273767840427999
+    second: MainFont Atlas_53
+  - first:
+      213: -8276494691297069396
+    second: MainFont Atlas_54
+  - first:
+      213: 2495712800605015481
+    second: MainFont Atlas_55
+  - first:
+      213: 12801534006946293
+    second: MainFont Atlas_56
+  - first:
+      213: 3339388169789101971
+    second: MainFont Atlas_57
+  - first:
+      213: 4403524002444401527
+    second: MainFont Atlas_58
+  - first:
+      213: 5792786848467055369
+    second: MainFont Atlas_59
+  - first:
+      213: -447433972464063908
+    second: MainFont Atlas_60
+  - first:
+      213: -1283838071705660057
+    second: MainFont Atlas_61
+  - first:
+      213: -8262622443300532581
+    second: MainFont Atlas_62
+  - first:
+      213: 4725761780046997774
+    second: MainFont Atlas_63
+  - first:
+      213: 2790492622641173172
+    second: MainFont Atlas_64
+  - first:
+      213: -5656520726642512683
+    second: MainFont Atlas_65
+  - first:
+      213: -8992037018849856127
+    second: MainFont Atlas_66
+  - first:
+      213: -2767501588039537461
+    second: MainFont Atlas_67
+  - first:
+      213: -7606766435597573680
+    second: MainFont Atlas_68
+  - first:
+      213: 6987123727264732551
+    second: MainFont Atlas_69
+  - first:
+      213: -1631032132836117541
+    second: MainFont Atlas_70
+  - first:
+      213: -6276460660152934597
+    second: MainFont Atlas_71
+  - first:
+      213: 5304330904444836362
+    second: MainFont Atlas_72
+  - first:
+      213: -7450411184286286941
+    second: MainFont Atlas_73
+  - first:
+      213: 2542459258699871283
+    second: MainFont Atlas_74
+  - first:
+      213: 3378406827514293034
+    second: MainFont Atlas_75
+  - first:
+      213: -6430260140212958816
+    second: MainFont Atlas_76
+  - first:
+      213: -2877720885418055476
+    second: MainFont Atlas_77
+  - first:
+      213: -7804595443194052353
+    second: MainFont Atlas_78
+  - first:
+      213: 1937950424303076470
+    second: MainFont Atlas_79
+  - first:
+      213: 6059901580264913330
+    second: MainFont Atlas_80
+  - first:
+      213: -3807485523119405794
+    second: MainFont Atlas_81
+  - first:
+      213: 5521723469648273781
+    second: MainFont Atlas_82
+  - first:
+      213: 7765162876519537087
+    second: MainFont Atlas_83
+  - first:
+      213: 4330506210695824406
+    second: MainFont Atlas_84
+  - first:
+      213: -6671493096768895986
+    second: MainFont Atlas_85
+  - first:
+      213: -8289147956917548269
+    second: MainFont Atlas_86
+  - first:
+      213: -4544015448412501174
+    second: MainFont Atlas_87
+  - first:
+      213: -7703044320656827485
+    second: MainFont Atlas_88
+  - first:
+      213: 4104657981932121208
+    second: MainFont Atlas_89
+  - first:
+      213: -6508034904335956973
+    second: MainFont Atlas_90
+  - first:
+      213: 1977030993232064630
+    second: MainFont Atlas_91
+  - first:
+      213: 2334369530446200162
+    second: MainFont Atlas_92
+  - first:
+      213: -2153994962518868108
+    second: MainFont Atlas_93
+  - first:
+      213: -4493613330971900966
+    second: MainFont Atlas_94
+  - first:
+      213: 7137346012213152695
+    second: MainFont Atlas_95
+  - first:
+      213: 8159066253005994845
+    second: MainFont Atlas_96
+  - first:
+      213: 3230360019881654615
+    second: MainFont Atlas_97
+  - first:
+      213: 3463191620958279525
+    second: MainFont Atlas_98
+  - first:
+      213: -8221025140676557175
+    second: MainFont Atlas_99
+  - first:
+      213: 7707558016781877668
+    second: MainFont Atlas_100
+  - first:
+      213: 830371408825368517
+    second: MainFont Atlas_101
+  - first:
+      213: 2722788839612563542
+    second: MainFont Atlas_102
+  - first:
+      213: -6658878430809999425
+    second: MainFont Atlas_103
+  - first:
+      213: 4152001857293244027
+    second: MainFont Atlas_104
+  - first:
+      213: 3767408601819777793
+    second: MainFont Atlas_105
+  - first:
+      213: -1888649078336334210
+    second: MainFont Atlas_106
+  - first:
+      213: 7998344750160244015
+    second: MainFont Atlas_107
+  - first:
+      213: -6675700603650459046
+    second: MainFont Atlas_108
+  - first:
+      213: -6277421019227200703
+    second: MainFont Atlas_109
+  - first:
+      213: -6705485369059047609
+    second: MainFont Atlas_110
+  - first:
+      213: -1389852439380619030
+    second: MainFont Atlas_111
+  - first:
+      213: -5507646333164036504
+    second: MainFont Atlas_112
+  - first:
+      213: 5780393068341539652
+    second: MainFont Atlas_113
+  - first:
+      213: 9219987848740632466
+    second: MainFont Atlas_114
+  - first:
+      213: -642327197611367292
+    second: MainFont Atlas_115
+  - first:
+      213: 8399895600214239095
+    second: MainFont Atlas_116
+  - first:
+      213: -4854639179463472059
+    second: MainFont Atlas_117
+  - first:
+      213: -3856414995058447570
+    second: MainFont Atlas_118
+  - first:
+      213: 3338726880492584580
+    second: MainFont Atlas_119
+  - first:
+      213: -7792454229734708417
+    second: MainFont Atlas_120
+  - first:
+      213: -7989441377359772338
+    second: MainFont Atlas_121
+  - first:
+      213: -8080033311501613083
+    second: MainFont Atlas_122
+  - first:
+      213: 430603490131473839
+    second: MainFont Atlas_123
+  - first:
+      213: -4120745983704651873
+    second: MainFont Atlas_124
+  - first:
+      213: 7795491401303784254
+    second: MainFont Atlas_125
+  - first:
+      213: -5055041654644649560
+    second: MainFont Atlas_126
+  - first:
+      213: -492110755666387537
+    second: MainFont Atlas_127
+  - first:
+      213: -3262439556315928271
+    second: MainFont Atlas_128
+  - first:
+      213: -2597104892156554534
+    second: MainFont Atlas_129
+  - first:
+      213: 4154970740596293608
+    second: MainFont Atlas_130
+  - first:
+      213: 1736749436336492762
+    second: MainFont Atlas_131
+  - first:
+      213: -3226667047150873574
+    second: MainFont Atlas_132
+  - first:
+      213: 6091355542063348749
+    second: MainFont Atlas_133
+  - first:
+      213: 8876532954727859720
+    second: MainFont Atlas_134
+  - first:
+      213: 5014461952853404188
+    second: MainFont Atlas_135
+  - first:
+      213: -6267971531315406973
+    second: MainFont Atlas_136
+  - first:
+      213: 2490830881400821807
+    second: MainFont Atlas_137
+  - first:
+      213: 5869815231681593884
+    second: MainFont Atlas_138
+  - first:
+      213: 4501238559659959191
+    second: MainFont Atlas_139
+  - first:
+      213: 54069051049198077
+    second: MainFont Atlas_140
+  - first:
+      213: 3797873959200000964
+    second: MainFont Atlas_141
+  - first:
+      213: -6720359097140610559
+    second: MainFont Atlas_142
+  - first:
+      213: -3519131510367291118
+    second: MainFont Atlas_143
+  - first:
+      213: 7449176279976771715
+    second: MainFont Atlas_144
+  - first:
+      213: -8567869608216906558
+    second: MainFont Atlas_145
+  - first:
+      213: 8987336729668043717
+    second: MainFont Atlas_146
+  - first:
+      213: 3213204733660323227
+    second: MainFont Atlas_147
+  - first:
+      213: -7708510062184239743
+    second: MainFont Atlas_148
+  - first:
+      213: 859309108954379898
+    second: MainFont Atlas_149
+  - first:
+      213: -495261425059764989
+    second: MainFont Atlas_150
+  - first:
+      213: 5934946861438041334
+    second: MainFont Atlas_151
+  - first:
+      213: -5757558185302151536
+    second: MainFont Atlas_152
+  - first:
+      213: -1876402254428736783
+    second: MainFont Atlas_153
+  - first:
+      213: -2192235971638686228
+    second: MainFont Atlas_154
+  - first:
+      213: 3866861462987262388
+    second: MainFont Atlas_155
+  - first:
+      213: -4255779665627317365
+    second: MainFont Atlas_156
+  - first:
+      213: -5358641638126551851
+    second: MainFont Atlas_157
+  - first:
+      213: -5611773034778422184
+    second: MainFont Atlas_158
+  - first:
+      213: -2296871078806099699
+    second: MainFont Atlas_159
+  - first:
+      213: -6348409694034285804
+    second: MainFont Atlas_160
+  - first:
+      213: 5856009039034334106
+    second: MainFont Atlas_161
+  - first:
+      213: -9200114376546950216
+    second: MainFont Atlas_162
+  - first:
+      213: 454311002801383542
+    second: MainFont Atlas_163
+  - first:
+      213: 3941881088749392633
+    second: MainFont Atlas_164
+  - first:
+      213: 2618009957928233990
+    second: MainFont Atlas_165
+  - first:
+      213: 7486487144350177039
+    second: MainFont Atlas_166
+  - first:
+      213: -9004958835232943738
+    second: MainFont Atlas_167
+  - first:
+      213: 3143935073673682364
+    second: MainFont Atlas_168
+  - first:
+      213: 279430615085552115
+    second: MainFont Atlas_169
+  - first:
+      213: -6059175253241311119
+    second: MainFont Atlas_170
+  - first:
+      213: 8386681997118961210
+    second: MainFont Atlas_171
+  - first:
+      213: 3375821853734097428
+    second: MainFont Atlas_172
+  - first:
+      213: -8926286520103738863
+    second: MainFont Atlas_173
+  - first:
+      213: 2628075557038287323
+    second: MainFont Atlas_174
+  - first:
+      213: -6254968436981298667
+    second: MainFont Atlas_175
+  - first:
+      213: -2720699446825247970
+    second: MainFont Atlas_176
+  - first:
+      213: 7417696565316033399
+    second: MainFont Atlas_177
+  - first:
+      213: -8884252040175709338
+    second: MainFont Atlas_178
+  - first:
+      213: -4552544861742927452
+    second: MainFont Atlas_179
+  - first:
+      213: -1855299161675938249
+    second: MainFont Atlas_180
+  - first:
+      213: -73791865726664850
+    second: MainFont Atlas_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainFont Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91db98ba562142740800000000000000
+      internalID: 5126242503733394713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 471
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933c62692159d4f80800000000000000
+      internalID: -8120670646018063559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 471
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee49a08f29cbbb60800000000000000
+      internalID: 7763019588562407143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 450
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95f6323a2b911320800000000000000
+      internalID: 2526971471464953247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 481
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9acbee47aac890800000000000000
+      internalID: -7436947877243740209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c496977a82828e90800000000000000
+      internalID: -7024908937521097535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5866f5dae90ca100800000000000000
+      internalID: 120482194248853598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 480
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d463b291396780600800000000000000
+      internalID: 434727738195785293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 478
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aa02a00d4eaf070800000000000000
+      internalID: 8141070858599836190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 483
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de24cb6f24a7ba60800000000000000
+      internalID: 7689795412336848594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 455
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad126ba69d87eb230800000000000000
+      internalID: 3656492822664978906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 483
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb2bcfcfde0d640800000000000000
+      internalID: 5102840048637885319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 459
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c200c4cbb2e8f66d0800000000000000
+      internalID: -2995018908684255188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 458
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a23f5e6b0b786960800000000000000
+      internalID: 7595456060586930856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c2c53cd0fdbec0800000000000000
+      internalID: -3549416102712654240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 429
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb963e416dfe7460800000000000000
+      internalID: 7241503845224193008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 429
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ddcfd62fc16bb0800000000000000
+      internalID: -4944443150005578990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 422
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e99dca93490810800000000000000
+      internalID: 1731989863854105100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 410
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9825055b5308dc0800000000000000
+      internalID: -3638849446062421542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 441
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30920340365757130800000000000000
+      internalID: 3563883748266092803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 407
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ad04eaab93aab0800000000000000
+      internalID: -4997980003178272713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 441
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c182a56523139960800000000000000
+      internalID: 7607445246898766276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 406
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb1140ace2d1c80800000000000000
+      internalID: -8350466688888488454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 441
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd47b02e03b1b170800000000000000
+      internalID: 8192526070423440832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 439
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7787243c9cca110800000000000000
+      internalID: 1273614635110004694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 418
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b03ce0d3c44d6b0800000000000000
+      internalID: -5272505438619628715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 416
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ff1e85849e5650800000000000000
+      internalID: 6223575036408623444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 418
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422acaa1ab92fdd50800000000000000
+      internalID: 6764171044621951524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 420
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abe6f34d2975e0f0800000000000000
+      internalID: -1088330499619361886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 420
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf40bc50d3baa8b0800000000000000
+      internalID: -5140098317200371776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 420
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f082e5a2c167e80800000000000000
+      internalID: -8181320704778039449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 420
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b749e1980513f60800000000000000
+      internalID: 8012273761922611972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceabb29a7a38ea50800000000000000
+      internalID: 6550549956132581061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 386
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c18da02ce607b30800000000000000
+      internalID: 4283045025313987734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 386
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9877164b19e26b90800000000000000
+      internalID: -7249976146763745121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 378
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa5eb9840e67980800000000000000
+      internalID: -8541393040803780002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 367
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a135bc71c6a720800000000000000
+      internalID: 2857183754973192825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 411
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a82531029a3500800000000000000
+      internalID: 376774052723335725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 372
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e9334a203bcadd0800000000000000
+      internalID: -2473405271407092211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 379
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a549a1766b2a6600800000000000000
+      internalID: 462229630752474530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 382
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418fa08e8366269f0800000000000000
+      internalID: -476706215950616556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 384
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ab8d61e9022ff10800000000000000
+      internalID: 2301938222899968596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 386
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f41192eb8d92ad0800000000000000
+      internalID: -2726409788151738558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 386
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320c7e0ebbfd84020800000000000000
+      internalID: 2326355205562023971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 386
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e2d14fa6e2c020800000000000000
+      internalID: 2360702795093567467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64a508a78189840800000000000000
+      internalID: 5230957881609307844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 342
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa727b64144d020800000000000000
+      internalID: 2365587476252700540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8df98e41a693770800000000000000
+      internalID: 8591014402220611774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 334
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82506dac8f910cc40800000000000000
+      internalID: 5530448898756576552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 326
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f97c0a948d34df0800000000000000
+      internalID: -197076147932520586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 367
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd20873e59f445f0800000000000000
+      internalID: -773219052947493413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 367
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1406a1de8fb6e290800000000000000
+      internalID: -7861385479405042660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 339
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd9aa95eac9e8ac0800000000000000
+      internalID: -3850968358712599099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 344
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf27117f0ce72210800000000000000
+      internalID: 1308273767840427999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 345
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f4d3ddebf32d80800000000000000
+      internalID: -8276494691297069396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 343
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd057db19d82a220800000000000000
+      internalID: 2495712800605015481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 345
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f960176dea7d2000800000000000000
+      internalID: 12801534006946293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 347
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397db6bf8d3e75e20800000000000000
+      internalID: 3339388169789101971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 347
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bda95dfb57c1d30800000000000000
+      internalID: 4403524002444401527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 347
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fe6a72fc146050800000000000000
+      internalID: 5792786848467055369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a66d23c256ac9f0800000000000000
+      internalID: -447433972464063908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 298
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7659cda6314ee2ee0800000000000000
+      internalID: -1283838071705660057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 299
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec6e14aa4455d80800000000000000
+      internalID: -8262622443300532581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a1d00d47459140800000000000000
+      internalID: 4725761780046997774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 284
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b210e07142d9b620800000000000000
+      internalID: 2790492622641173172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 321
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca6df5e500081b0800000000000000
+      internalID: -5656520726642512683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 282
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ba4429fdd53380800000000000000
+      internalID: -8992037018849856127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 312
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce291f7fbd799d0800000000000000
+      internalID: -2767501588039537461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 305
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a7dcaa365f6690800000000000000
+      internalID: -7606766435597573680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 306
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855155b20047f060800000000000000
+      internalID: 6987123727264732551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 304
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd33e01bae86d59e0800000000000000
+      internalID: -1631032132836117541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 307
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fded0a84885e8a0800000000000000
+      internalID: -6276460660152934597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 308
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9f82aad4cc9940800000000000000
+      internalID: 5304330904444836362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 308
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abb40a7082da9890800000000000000
+      internalID: -7450411184286286941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 298
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33475baa931a84320800000000000000
+      internalID: 2542459258699871283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6ebc2c1382ee20800000000000000
+      internalID: 3378406827514293034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 254
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c041b87023c6a0800000000000000
+      internalID: -6430260140212958816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 255
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82fedf9184018d0800000000000000
+      internalID: -2877720885418055476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 246
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff049c08bc180b390800000000000000
+      internalID: -7804595443194052353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 243
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67407e8a4abf4ea10800000000000000
+      internalID: 1937950424303076470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 242
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b4896168191450800000000000000
+      internalID: 6059901580264913330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 274
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158603f618192bc0800000000000000
+      internalID: -3807485523119405794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 235
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a2548d3a11ac40800000000000000
+      internalID: 5521723469648273781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 267
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb95ffd9e7663cb60800000000000000
+      internalID: 7765162876519537087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c522647c091c30800000000000000
+      internalID: 4330506210695824406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 267
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048e9520681a63a0800000000000000
+      internalID: -6671493096768895986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 269
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4649d9d707fc80800000000000000
+      internalID: -8289147956917548269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 269
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4c7f560a60f0c0800000000000000
+      internalID: -4544015448412501174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 267
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd82ab00a491590800000000000000
+      internalID: -7703044320656827485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 264
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2989efaca6f830800000000000000
+      internalID: 4104657981932121208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314463d4cb0dea5a0800000000000000
+      internalID: -6508034904335956973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 210
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f88da633df6b10800000000000000
+      internalID: 1977030993232064630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 211
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dbdbc48b8556020800000000000000
+      internalID: 2334369530446200162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff4137ef87b12e0800000000000000
+      internalID: -2153994962518868108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 202
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c571db7a73a1c0800000000000000
+      internalID: -4493613330971900966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 202
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb04010262fc0360800000000000000
+      internalID: 7137346012213152695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 196
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bbc4d4783da3170800000000000000
+      internalID: 8159066253005994845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 229
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7597ba9a25b84dc20800000000000000
+      internalID: 3230360019881654615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 229
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d3543e6abf0030800000000000000
+      internalID: 3463191620958279525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 230
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9860b60013d09ed80800000000000000
+      internalID: -8221025140676557175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 192
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18ffb0e2fb6fa60800000000000000
+      internalID: 7707558016781877668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 231
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf3da69562168b00800000000000000
+      internalID: 830371408825368517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 193
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650418f060a49c520800000000000000
+      internalID: 2722788839612563542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb73f01f859e693a0800000000000000
+      internalID: -6658878430809999425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 230
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d9b2e0bfde9930800000000000000
+      internalID: 4152001857293244027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 229
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b083ba926884430800000000000000
+      internalID: 3767408601819777793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 229
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d4647bab2ac5e0800000000000000
+      internalID: -1888649078336334210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d69685c24dffe60800000000000000
+      internalID: 7998344750160244015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5abd8c9ba52b53a0800000000000000
+      internalID: -6675700603650459046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 167
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143646b97de12e8a0800000000000000
+      internalID: -6277421019227200703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 159
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74708a2859451f2a0800000000000000
+      internalID: -6705485369059047609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 165
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae01284f19046bce0800000000000000
+      internalID: -1389852439380619030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 160
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e564b37d8e093b0800000000000000
+      internalID: -5507646333164036504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b0acaed4183050800000000000000
+      internalID: 5780393068341539652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 195
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977a9d491af3ff70800000000000000
+      internalID: 9219987848740632466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 155
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846dc421def517f0800000000000000
+      internalID: -642327197611367292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 191
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e2293b8c629470800000000000000
+      internalID: 8399895600214239095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 156
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cc263236bd0acb0800000000000000
+      internalID: -4854639179463472059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 194
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2d018ef24b7ac0800000000000000
+      internalID: -3856414995058447570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48efec1986a855e20800000000000000
+      internalID: 3338726880492584580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 194
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2c2c0a24abd390800000000000000
+      internalID: -7792454229734708417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c9aca56dcf1190800000000000000
+      internalID: -7989441377359772338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 123
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78f965384fddf80800000000000000
+      internalID: -8080033311501613083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57454c79fc9f500800000000000000
+      internalID: 430603490131473839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 120
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97aaa74c5b20d6c0800000000000000
+      internalID: -4120745983704651873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 124
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf25090262f2c60800000000000000
+      internalID: 7795491401303784254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15a1ad562e8d9b0800000000000000
+      internalID: -5055041654644649560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad1b5200ebab29f0800000000000000
+      internalID: -492110755666387537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 160
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1392b98328c79b2d0800000000000000
+      internalID: -3262439556315928271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 121
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad254925cda35fbd0800000000000000
+      internalID: -2597104892156554534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef3265efdb69a930800000000000000
+      internalID: 4154970740596293608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 156
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad052b0296c2a1810800000000000000
+      internalID: 1736749436336492762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141d1e8a639833d0800000000000000
+      internalID: -3226667047150873574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 157
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cfa459797d88450800000000000000
+      internalID: 6091355542063348749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064a9341b7cf2b70800000000000000
+      internalID: 8876532954727859720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 79
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ae98f0492f69540800000000000000
+      internalID: 5014461952853404188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871fa5f911b309a0800000000000000
+      internalID: -6267971531315406973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2818795d75319220800000000000000
+      internalID: 2490830881400821807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120f858ad5c57150800000000000000
+      internalID: 5869815231681593884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 77
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a2d51f9c977e30800000000000000
+      internalID: 4501238559659959191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 116
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df14125f38710c000800000000000000
+      internalID: 54069051049198077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 115
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb82df6e32c4b430800000000000000
+      internalID: 3797873959200000964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7ed3d10d7cb2a0800000000000000
+      internalID: -6720359097140610559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 114
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2197ca65988892fc0800000000000000
+      internalID: -3519131510367291118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 82
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3800845fb5ac06760800000000000000
+      internalID: 7449176279976771715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 117
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4bd506cffc81980800000000000000
+      internalID: -8567869608216906558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 117
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34fa0832f69bc70800000000000000
+      internalID: 8987336729668043717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 81
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d5d645ea8979c20800000000000000
+      internalID: 3213204733660323227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 119
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18debfb90fed50590800000000000000
+      internalID: -7708510062184239743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 81
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bb7fe411eceb00800000000000000
+      internalID: 859309108954379898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305eb50ab5a7029f0800000000000000
+      internalID: -495261425059764989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc75dcc9ba2d5250800000000000000
+      internalID: 5934946861438041334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 40
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e2c67d55b0910b0800000000000000
+      internalID: -5757558185302151536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27809571ea5f5e0800000000000000
+      internalID: -1876402254428736783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced84aeaffc9391e0800000000000000
+      internalID: -2192235971638686228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c009530ad9a530800000000000000
+      internalID: 3866861462987262388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 75
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bf3f331fe60f4c0800000000000000
+      internalID: -4255779665627317365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 74
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc79d842d742a5b0800000000000000
+      internalID: -5358641638126551851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 76
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8549ae5482afe12b0800000000000000
+      internalID: -5611773034778422184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 41
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e4e45cefdf10e0800000000000000
+      internalID: -2296871078806099699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 78
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ba072c40be5e7a0800000000000000
+      internalID: -6348409694034285804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 39
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b3e1dc139b44150800000000000000
+      internalID: 5856009039034334106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 78
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b364f408b0a25080800000000000000
+      internalID: -9200114376546950216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 39
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678278333790e4600800000000000000
+      internalID: 454311002801383542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 43
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2dcb917ff54b630800000000000000
+      internalID: 3941881088749392633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6fb89f2a055420800000000000000
+      internalID: 2618009957928233990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f075586846855e760800000000000000
+      internalID: 7486487144350177039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 38
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681dce056a5f70380800000000000000
+      internalID: -9004958835232943738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 40
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd163fca4081ab20800000000000000
+      internalID: 3143935073673682364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11b87f9acb0e300800000000000000
+      internalID: 279430615085552115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 40
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d6b6c53c79eba0800000000000000
+      internalID: -6059175253241311119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36707287da736470800000000000000
+      internalID: 8386681997118961210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 41
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41252d0171459de20800000000000000
+      internalID: 3375821853734097428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112ebd514b57f1480800000000000000
+      internalID: -8926286520103738863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd967248bccc87420800000000000000
+      internalID: 2628075557038287323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a0378c853e139a0800000000000000
+      internalID: -6254968436981298667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b116b94422e3ad0800000000000000
+      internalID: -2720699446825247970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1c4bb9b3f0f660800000000000000
+      internalID: 7417696565316033399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663994a17dbc4b480800000000000000
+      internalID: -8884252040175709338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a178c3919c12d0c0800000000000000
+      internalID: -4552544861742927452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736c9340e37a046e0800000000000000
+      internalID: -1855299161675938249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainFont Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7c0860b6d9fef0800000000000000
+      internalID: -73791865726664850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MainFont Atlas_0: 5126242503733394713
+      MainFont Atlas_1: -8120670646018063559
+      MainFont Atlas_10: 3656492822664978906
+      MainFont Atlas_100: 7707558016781877668
+      MainFont Atlas_101: 830371408825368517
+      MainFont Atlas_102: 2722788839612563542
+      MainFont Atlas_103: -6658878430809999425
+      MainFont Atlas_104: 4152001857293244027
+      MainFont Atlas_105: 3767408601819777793
+      MainFont Atlas_106: -1888649078336334210
+      MainFont Atlas_107: 7998344750160244015
+      MainFont Atlas_108: -6675700603650459046
+      MainFont Atlas_109: -6277421019227200703
+      MainFont Atlas_11: 5102840048637885319
+      MainFont Atlas_110: -6705485369059047609
+      MainFont Atlas_111: -1389852439380619030
+      MainFont Atlas_112: -5507646333164036504
+      MainFont Atlas_113: 5780393068341539652
+      MainFont Atlas_114: 9219987848740632466
+      MainFont Atlas_115: -642327197611367292
+      MainFont Atlas_116: 8399895600214239095
+      MainFont Atlas_117: -4854639179463472059
+      MainFont Atlas_118: -3856414995058447570
+      MainFont Atlas_119: 3338726880492584580
+      MainFont Atlas_12: -2995018908684255188
+      MainFont Atlas_120: -7792454229734708417
+      MainFont Atlas_121: -7989441377359772338
+      MainFont Atlas_122: -8080033311501613083
+      MainFont Atlas_123: 430603490131473839
+      MainFont Atlas_124: -4120745983704651873
+      MainFont Atlas_125: 7795491401303784254
+      MainFont Atlas_126: -5055041654644649560
+      MainFont Atlas_127: -492110755666387537
+      MainFont Atlas_128: -3262439556315928271
+      MainFont Atlas_129: -2597104892156554534
+      MainFont Atlas_13: 7595456060586930856
+      MainFont Atlas_130: 4154970740596293608
+      MainFont Atlas_131: 1736749436336492762
+      MainFont Atlas_132: -3226667047150873574
+      MainFont Atlas_133: 6091355542063348749
+      MainFont Atlas_134: 8876532954727859720
+      MainFont Atlas_135: 5014461952853404188
+      MainFont Atlas_136: -6267971531315406973
+      MainFont Atlas_137: 2490830881400821807
+      MainFont Atlas_138: 5869815231681593884
+      MainFont Atlas_139: 4501238559659959191
+      MainFont Atlas_14: -3549416102712654240
+      MainFont Atlas_140: 54069051049198077
+      MainFont Atlas_141: 3797873959200000964
+      MainFont Atlas_142: -6720359097140610559
+      MainFont Atlas_143: -3519131510367291118
+      MainFont Atlas_144: 7449176279976771715
+      MainFont Atlas_145: -8567869608216906558
+      MainFont Atlas_146: 8987336729668043717
+      MainFont Atlas_147: 3213204733660323227
+      MainFont Atlas_148: -7708510062184239743
+      MainFont Atlas_149: 859309108954379898
+      MainFont Atlas_15: 7241503845224193008
+      MainFont Atlas_150: -495261425059764989
+      MainFont Atlas_151: 5934946861438041334
+      MainFont Atlas_152: -5757558185302151536
+      MainFont Atlas_153: -1876402254428736783
+      MainFont Atlas_154: -2192235971638686228
+      MainFont Atlas_155: 3866861462987262388
+      MainFont Atlas_156: -4255779665627317365
+      MainFont Atlas_157: -5358641638126551851
+      MainFont Atlas_158: -5611773034778422184
+      MainFont Atlas_159: -2296871078806099699
+      MainFont Atlas_16: -4944443150005578990
+      MainFont Atlas_160: -6348409694034285804
+      MainFont Atlas_161: 5856009039034334106
+      MainFont Atlas_162: -9200114376546950216
+      MainFont Atlas_163: 454311002801383542
+      MainFont Atlas_164: 3941881088749392633
+      MainFont Atlas_165: 2618009957928233990
+      MainFont Atlas_166: 7486487144350177039
+      MainFont Atlas_167: -9004958835232943738
+      MainFont Atlas_168: 3143935073673682364
+      MainFont Atlas_169: 279430615085552115
+      MainFont Atlas_17: 1731989863854105100
+      MainFont Atlas_170: -6059175253241311119
+      MainFont Atlas_171: 8386681997118961210
+      MainFont Atlas_172: 3375821853734097428
+      MainFont Atlas_173: -8926286520103738863
+      MainFont Atlas_174: 2628075557038287323
+      MainFont Atlas_175: -6254968436981298667
+      MainFont Atlas_176: -2720699446825247970
+      MainFont Atlas_177: 7417696565316033399
+      MainFont Atlas_178: -8884252040175709338
+      MainFont Atlas_179: -4552544861742927452
+      MainFont Atlas_18: -3638849446062421542
+      MainFont Atlas_180: -1855299161675938249
+      MainFont Atlas_181: -73791865726664850
+      MainFont Atlas_19: 3563883748266092803
+      MainFont Atlas_2: 7763019588562407143
+      MainFont Atlas_20: -4997980003178272713
+      MainFont Atlas_21: 7607445246898766276
+      MainFont Atlas_22: -8350466688888488454
+      MainFont Atlas_23: 8192526070423440832
+      MainFont Atlas_24: 1273614635110004694
+      MainFont Atlas_25: -5272505438619628715
+      MainFont Atlas_26: 6223575036408623444
+      MainFont Atlas_27: 6764171044621951524
+      MainFont Atlas_28: -1088330499619361886
+      MainFont Atlas_29: -5140098317200371776
+      MainFont Atlas_3: 2526971471464953247
+      MainFont Atlas_30: -8181320704778039449
+      MainFont Atlas_31: 8012273761922611972
+      MainFont Atlas_32: 6550549956132581061
+      MainFont Atlas_33: 4283045025313987734
+      MainFont Atlas_34: -7249976146763745121
+      MainFont Atlas_35: -8541393040803780002
+      MainFont Atlas_36: 2857183754973192825
+      MainFont Atlas_37: 376774052723335725
+      MainFont Atlas_38: -2473405271407092211
+      MainFont Atlas_39: 462229630752474530
+      MainFont Atlas_4: -7436947877243740209
+      MainFont Atlas_40: -476706215950616556
+      MainFont Atlas_41: 2301938222899968596
+      MainFont Atlas_42: -2726409788151738558
+      MainFont Atlas_43: 2326355205562023971
+      MainFont Atlas_44: 2360702795093567467
+      MainFont Atlas_45: 5230957881609307844
+      MainFont Atlas_46: 2365587476252700540
+      MainFont Atlas_47: 8591014402220611774
+      MainFont Atlas_48: 5530448898756576552
+      MainFont Atlas_49: -197076147932520586
+      MainFont Atlas_5: -7024908937521097535
+      MainFont Atlas_50: -773219052947493413
+      MainFont Atlas_51: -7861385479405042660
+      MainFont Atlas_52: -3850968358712599099
+      MainFont Atlas_53: 1308273767840427999
+      MainFont Atlas_54: -8276494691297069396
+      MainFont Atlas_55: 2495712800605015481
+      MainFont Atlas_56: 12801534006946293
+      MainFont Atlas_57: 3339388169789101971
+      MainFont Atlas_58: 4403524002444401527
+      MainFont Atlas_59: 5792786848467055369
+      MainFont Atlas_6: 120482194248853598
+      MainFont Atlas_60: -447433972464063908
+      MainFont Atlas_61: -1283838071705660057
+      MainFont Atlas_62: -8262622443300532581
+      MainFont Atlas_63: 4725761780046997774
+      MainFont Atlas_64: 2790492622641173172
+      MainFont Atlas_65: -5656520726642512683
+      MainFont Atlas_66: -8992037018849856127
+      MainFont Atlas_67: -2767501588039537461
+      MainFont Atlas_68: -7606766435597573680
+      MainFont Atlas_69: 6987123727264732551
+      MainFont Atlas_7: 434727738195785293
+      MainFont Atlas_70: -1631032132836117541
+      MainFont Atlas_71: -6276460660152934597
+      MainFont Atlas_72: 5304330904444836362
+      MainFont Atlas_73: -7450411184286286941
+      MainFont Atlas_74: 2542459258699871283
+      MainFont Atlas_75: 3378406827514293034
+      MainFont Atlas_76: -6430260140212958816
+      MainFont Atlas_77: -2877720885418055476
+      MainFont Atlas_78: -7804595443194052353
+      MainFont Atlas_79: 1937950424303076470
+      MainFont Atlas_8: 8141070858599836190
+      MainFont Atlas_80: 6059901580264913330
+      MainFont Atlas_81: -3807485523119405794
+      MainFont Atlas_82: 5521723469648273781
+      MainFont Atlas_83: 7765162876519537087
+      MainFont Atlas_84: 4330506210695824406
+      MainFont Atlas_85: -6671493096768895986
+      MainFont Atlas_86: -8289147956917548269
+      MainFont Atlas_87: -4544015448412501174
+      MainFont Atlas_88: -7703044320656827485
+      MainFont Atlas_89: 4104657981932121208
+      MainFont Atlas_9: 7689795412336848594
+      MainFont Atlas_90: -6508034904335956973
+      MainFont Atlas_91: 1977030993232064630
+      MainFont Atlas_92: 2334369530446200162
+      MainFont Atlas_93: -2153994962518868108
+      MainFont Atlas_94: -4493613330971900966
+      MainFont Atlas_95: 7137346012213152695
+      MainFont Atlas_96: 8159066253005994845
+      MainFont Atlas_97: 3230360019881654615
+      MainFont Atlas_98: 3463191620958279525
+      MainFont Atlas_99: -8221025140676557175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

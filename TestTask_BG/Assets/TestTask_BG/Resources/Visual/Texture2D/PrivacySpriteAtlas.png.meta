@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: f13c6f1d577489740a604fc9c5ae2d9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5783870405321322950
+    second: PrivacySpriteAtlas_0
+  - first:
+      213: -4700267364975067377
+    second: PrivacySpriteAtlas_1
+  - first:
+      213: -2461234698512285360
+    second: PrivacySpriteAtlas_2
+  - first:
+      213: -3670304540016111514
+    second: PrivacySpriteAtlas_3
+  - first:
+      213: 3940384685260487506
+    second: PrivacySpriteAtlas_4
+  - first:
+      213: 8515838026061046465
+    second: PrivacySpriteAtlas_5
+  - first:
+      213: -2022612872219216736
+    second: PrivacySpriteAtlas_6
+  - first:
+      213: 3029524867642929143
+    second: PrivacySpriteAtlas_7
+  - first:
+      213: -15015743382628308
+    second: PrivacySpriteAtlas_8
+  - first:
+      213: -6694006497491128214
+    second: PrivacySpriteAtlas_9
+  - first:
+      213: -2697236853804420438
+    second: PrivacySpriteAtlas_10
+  - first:
+      213: -3119800941624182866
+    second: PrivacySpriteAtlas_11
+  - first:
+      213: 6262176433288757185
+    second: PrivacySpriteAtlas_12
+  - first:
+      213: 7013308770845117386
+    second: PrivacySpriteAtlas_13
+  - first:
+      213: 1519202351987863586
+    second: PrivacySpriteAtlas_14
+  - first:
+      213: 6711790977208950160
+    second: PrivacySpriteAtlas_15
+  - first:
+      213: 1914747116236513918
+    second: PrivacySpriteAtlas_16
+  - first:
+      213: 8767291750201516216
+    second: PrivacySpriteAtlas_17
+  - first:
+      213: -6350615149393298711
+    second: PrivacySpriteAtlas_18
+  - first:
+      213: -359101578220323919
+    second: PrivacySpriteAtlas_19
+  - first:
+      213: 1027006284034918637
+    second: PrivacySpriteAtlas_20
+  - first:
+      213: 3649111834499866393
+    second: PrivacySpriteAtlas_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8de7b2809bbfa0800000000000000
+      internalID: -5783870405321322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fbc411cbb45ceb0800000000000000
+      internalID: -4700267364975067377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0514f46f410f7ddd0800000000000000
+      internalID: -2461234698512285360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66016da8775701dc0800000000000000
+      internalID: -3670304540016111514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b37538efe0fa630800000000000000
+      internalID: 3940384685260487506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e12cd0955e2670800000000000000
+      internalID: 8515838026061046465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bd391f4c3ee3e0800000000000000
+      internalID: -2022612872219216736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 206
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa116e0d80b0a20800000000000000
+      internalID: 3029524867642929143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d3adc247aacff0800000000000000
+      internalID: -15015743382628308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 170
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6072e09e8c1a13a0800000000000000
+      internalID: -6694006497491128214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 174
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa235ed3f5d719ad0800000000000000
+      internalID: -2697236853804420438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 146
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7bf80b29d34b4d0800000000000000
+      internalID: -3119800941624182866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbff2a948b7e650800000000000000
+      internalID: 6262176433288757185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbca524b27445160800000000000000
+      internalID: 7013308770845117386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220bc247d7a451510800000000000000
+      internalID: 1519202351987863586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d163b4552152d50800000000000000
+      internalID: 6711790977208950160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722bf18b5c829a10800000000000000
+      internalID: 1914747116236513918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b069fc456daba970800000000000000
+      internalID: 8767291750201516216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab23b2b251ed7a0800000000000000
+      internalID: -6350615149393298711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 130
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb35e76407340bf0800000000000000
+      internalID: -359101578220323919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8cef526c8a04e00800000000000000
+      internalID: 1027006284034918637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrivacySpriteAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd90131ef34a230800000000000000
+      internalID: 3649111834499866393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PrivacySpriteAtlas_0: -5783870405321322950
+      PrivacySpriteAtlas_1: -4700267364975067377
+      PrivacySpriteAtlas_10: -2697236853804420438
+      PrivacySpriteAtlas_11: -3119800941624182866
+      PrivacySpriteAtlas_12: 6262176433288757185
+      PrivacySpriteAtlas_13: 7013308770845117386
+      PrivacySpriteAtlas_14: 1519202351987863586
+      PrivacySpriteAtlas_15: 6711790977208950160
+      PrivacySpriteAtlas_16: 1914747116236513918
+      PrivacySpriteAtlas_17: 8767291750201516216
+      PrivacySpriteAtlas_18: -6350615149393298711
+      PrivacySpriteAtlas_19: -359101578220323919
+      PrivacySpriteAtlas_2: -2461234698512285360
+      PrivacySpriteAtlas_20: 1027006284034918637
+      PrivacySpriteAtlas_21: 3649111834499866393
+      PrivacySpriteAtlas_3: -3670304540016111514
+      PrivacySpriteAtlas_4: 3940384685260487506
+      PrivacySpriteAtlas_5: 8515838026061046465
+      PrivacySpriteAtlas_6: -2022612872219216736
+      PrivacySpriteAtlas_7: 3029524867642929143
+      PrivacySpriteAtlas_8: -15015743382628308
+      PrivacySpriteAtlas_9: -6694006497491128214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

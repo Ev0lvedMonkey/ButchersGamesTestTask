@@ -2,16 +2,15 @@ using UnityEngine;
 
 [RequireComponent(typeof(Collider))]
 [RequireComponent(typeof(Rigidbody))]
-public abstract class PickUpObject : MonoBehaviour
+public abstract class TriggersHandler : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
         if (other.TryGetComponent(out ProgressController controller))
-            UpdateProgress(controller);
+            DoAction(controller);
     }
 
-    protected virtual void UpdateProgress(ProgressController controller)
+    protected virtual void DoAction(ProgressController controller)
     {
-        Destroy(transform.parent.gameObject);
     }
 }

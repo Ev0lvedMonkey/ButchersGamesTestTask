@@ -1,9 +1,20 @@
-﻿public class BillsPickUp : PickUpObject
+﻿using System.Collections;
+using UnityEngine;
+
+public class BillsPickUp : TriggersHandler
 {
-    protected override void UpdateProgress(ProgressController controller)
+    [SerializeField] private AudioSource _source;
+
+    protected override void DoAction(ProgressController controller)
     {
-        base.UpdateProgress(controller);
         controller.ChangeProgress(true);
+        _source.Play();
+        StartCoroutine(DestroyAfterDelay());
+    }
+
+    private IEnumerator DestroyAfterDelay()
+    {
+        yield return new WaitForSeconds(0.1f); 
+        Destroy(transform.parent.gameObject);
     }
 }
-

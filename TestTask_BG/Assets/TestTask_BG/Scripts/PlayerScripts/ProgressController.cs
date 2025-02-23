@@ -1,8 +1,17 @@
-using System.Collections.Generic;
-using UnityEngine;
-using DG.Tweening;
+п»їusing DG.Tweening;
 using PathCreation.Examples;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public enum SkinType
+{
+    Default =0,
+    Casual =1,
+    Midle=2,
+    Cool= 3,
+    Greate =4
+}
 
 public class ProgressController : MonoBehaviour
 {
@@ -18,17 +27,19 @@ public class ProgressController : MonoBehaviour
 
     [Header("Properties")]
     [SerializeField] private List<GameObject> _skinsList;
-    [SerializeField] private List<string> _skinsNames;
+    [SerializeField] private List<string> _skinNames;
 
     private float _localProgress = 0.2f;
     private bool _isWin;
     private bool _isLose;
-    private int _currentSkinIndex = -1;
-    private float _progressStepValue = 0.05f;
+    private int _currentSkinIndex = 0;
+    private float _progressStepValue;
 
+    private float ConstProgressStepValue = 0.05f;
     private int _tempReceivedBills = 0;
     private int _tempReceivedBottles = 0;
     private int _totalReceivedBills = 0;
+    private int _receivedBillsStep = 1;
 
     private Coroutine _resetBillsCoroutine;
     private Coroutine _resetBottlesCoroutine;
@@ -43,17 +54,27 @@ public class ProgressController : MonoBehaviour
 
     private void Awake()
     {
-        if (_skinsList.Count < 5 || _skinsNames.Count < 5)
+        if (_skinsList.Count != _skinNames.Count)
         {
-            Debug.LogError("Недостаточно скинов или имен в списке!");
+            Debug.LogError("РљРѕР»РёС‡РµСЃС‚РІРѕ СЃРєРёРЅРѕРІ Рё РёРјРµРЅ СЃРєРёРЅРѕРІ РЅРµ СЃРѕРІРїР°РґР°РµС‚!");
             return;
         }
-
+        _progressStepValue = ConstProgressStepValue;
         SetAnimState();
         UpdateProgressBar();
         UpdateSkin();
         _receivedBillsView.Disable();
         _receivedBottleView.Disable();
+    }
+
+    public SkinType GetSkinType()
+    {
+        if (_localProgress > 0.9f) return SkinType.Greate;
+        if (_localProgress > 0.8f) return SkinType.Cool;
+        if (_localProgress > 0.6f) return SkinType.Midle;
+        if (_localProgress > 0.4f) return SkinType.Casual;
+        if (_localProgress < 0.2f) return SkinType.Default;
+        return SkinType.Greate;
     }
 
     public void WinProgress()
@@ -72,15 +93,21 @@ public class ProgressController : MonoBehaviour
         SetAnimState();
     }
 
+    public void MultiBonusProgressStep(int multiBonus)
+    {
+        _progressStepValue = ConstProgressStepValue * multiBonus;
+        _receivedBillsStep = multiBonus; 
+    }
+
     public void ChangeProgress(bool isUp)
     {
         if (isUp)
         {
             _localProgress += _progressStepValue;
-            _tempReceivedBills++;
-            _totalReceivedBills++;
+            _tempReceivedBills += _receivedBillsStep; 
+            _totalReceivedBills += _receivedBillsStep;
 
-            Debug.Log($"Общее количество бумажных денег: {_totalReceivedBills}");
+            Debug.Log($"РћР±С‰РµРµ РєРѕР»РёС‡РµСЃС‚РІРѕ Р±СѓРјР°Р¶РЅС‹С… РґРµРЅРµРі: {_totalReceivedBills}");
             _receivedBillsView.UpdateReceivedBillsValue(_tempReceivedBills);
 
             if (_resetBillsCoroutine != null)
@@ -92,8 +119,8 @@ public class ProgressController : MonoBehaviour
             _localProgress -= RegressStepValue;
             _tempReceivedBottles++;
 
-            Debug.Log("Подобрана бутылка!");
-            _receivedBottleView.UpdateReceivedBillsValue(_tempReceivedBottles);
+            Debug.Log("РџРѕРґРѕР±СЂР°РЅР° Р±СѓС‚С‹Р»РєР°!");
+            _receivedBottleView.UpdateReceivedBillsValue(_tempReceivedBottles * 10);
 
             if (_resetBottlesCoroutine != null)
                 StopCoroutine(_resetBottlesCoroutine);
@@ -126,8 +153,6 @@ public class ProgressController : MonoBehaviour
         _receivedBottleView.Disable();
     }
 
-    public void DoubleProgressStep() =>
-        _progressStepValue *= 2;
 
     private void SetAnimState()
     {
@@ -155,8 +180,8 @@ public class ProgressController : MonoBehaviour
             _skinsList[i].SetActive(i == newIndex);
         }
 
-        string skinName = _skinsNames[newIndex];
-        Debug.Log($"Текущий уровень: {skinName}");
+        string skinName = _skinNames[newIndex];
+        Debug.Log($"РўРµРєСѓС‰РёР№ СѓСЂРѕРІРµРЅСЊ: {skinName}");
 
         _progressView.UpdateSkinInfo(skinName, newIndex);
         RotateSkin();
